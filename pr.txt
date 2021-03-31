@@ -1,0 +1,2 @@
+This is continuous Delivery And Devops
+Practice session
